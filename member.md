@@ -10,7 +10,7 @@ title: Community of Practice
 <h2>Current Members:</h2>
 <ul>
   <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>Mark Marshall</b> - NHS England</li>
+  <li><b>Liam Cain</b> - NHS England</li>
   <li><b>Suki Panesar</b> - NHS England</li> 
 </ul>
 
