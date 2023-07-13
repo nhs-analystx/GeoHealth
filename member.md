@@ -11,7 +11,8 @@ title: Community of Practice
 <ul>
   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Liam Cain</b> - NHS England</li>
-  <li><b>Suki Panesar</b> - NHS England</li> 
+  <li><b>Rob Shaw</b> - NHS England</li> 
+  <li><b>Jim Lockyear</b> - NHS England</li> 
 </ul>
 
 <div class="nhsuk-do-dont-list">
