@@ -3,9 +3,9 @@ layout: default
 title: Community of Practice 
 ---
 
-<h2>AnalystX SQL community</h2>
+<h2>AnalystX GeoHealth community</h2>
 <p>
-  The AnalystX SQL Community board will meet monthly. It will govern and provide a check and challenge function on project teams and will act as the parent group to any future sub-committees and technical advisory groups that form. 
+  The AnalystX GeoHealth Community board will meet monthly. It will govern and provide a check and challenge function on project teams and will act as the parent group to any future sub-committees and technical advisory groups that form. 
 </p>
 <h2>Current Members:</h2>
 <ul>
