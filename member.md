@@ -48,7 +48,7 @@ title: Community of Practice
 
 <h2>Communities of Practice</h2>
 
-We are keen to support new communities in use of SQL and the development of existing networks. Please get in touch if you would like support with your data science community of practice.
+We are keen to support new communities in use of geo spacital software within the health and care sector. Please get in touch if you would like support with our community of practice.
 – please email [england.analystX@nhs.net](mailto:england.analystx@nhs.net)
 
 
